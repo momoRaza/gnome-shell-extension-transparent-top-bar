@@ -34,3 +34,7 @@ cd ~/.local/share/gnome-shell/extensions/transparent-top-bar@ftpix.com
 glib-compile-schemas schemas/
 ```
 
+
+
+https://github.com/user-attachments/assets/0919e405-d5ed-4f77-a4cb-573849978dba
+
