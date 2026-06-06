@@ -1,4 +1,9 @@
-# GNOME Shell Extension - Transparent Top Bar
+# GNOME Shell Extension - Dynamic Transparent Top Bar
+
+### SUPPORT MY WORK
+<a href="https://buymeacoffee.com/momo424">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
 
 A GNOME Shell extension that brings back the transparent top bar when free-floating in GNOME Shell 3.32.
 
